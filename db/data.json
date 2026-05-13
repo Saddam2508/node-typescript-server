@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "customer": "Sir Snackalot 🛡️",
+    "quantity": 3,
+    "food": "Extra spicy chicken nuggets 🔥",
+    "price": 12.99
+  },
+  {
+    "id": "2",
+    "customer": "Doughnut Destroyer 🍩",
+    "quantity": 12,
+    "food": "Glazed donuts (suspiciously missing 3)",
+    "price": 18.5
+  },
+  {
+    "id": "3",
+    "customer": "Grandma Hacker 👵💻",
+    "quantity": 1,
+    "food": "Encrypted spaghetti 🍝 (secret sauce enabled)",
+    "price": 9.99
+  },
+  {
+    "id": "4",
+    "customer": "Burger Lord 👑",
+    "quantity": 2,
+    "food": "Double cheeseburger with emotional support fries 🍟",
+    "price": 15.75
+  },
+  {
+    "id": "5",
+    "customer": "Aliens Probably 👽",
+    "quantity": 5,
+    "food": "Human-style pizza (extra suspicious olives)",
+    "price": 42
+  },
+  {
+    "id": "6",
+    "customer": "404 Customer Not Found",
+    "quantity": 1,
+    "food": "Mystery box (you regret opening it)",
+    "price": 0.99
+  }
+]
